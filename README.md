@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio<br>🌱 I’m currently learning React and Elixir <br>💬 Ask me about any of my nerd-ish things<br>⚡ Fun fact, I love linux and try more than 15 distro =)
+🔭 I’m currently working on my portfolio<br>🌱 I’m currently learning Rust <br>💬 Ask me about any of my nerd-ish things<br>⚡ Fun fact, I love linux and try more than 15 distro =)
 
 
 ## 🌐 Socials:
